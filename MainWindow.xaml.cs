@@ -118,7 +118,7 @@ namespace CalculatorGUILab
             WindowLabel.Content = "";
         }
 
-        private void PlusMinus_Click(object sender, RoutedEventArgs e) // Finish Debugging - Justin. M
+        private void PlusMinus_Click(object sender, RoutedEventArgs e)
         {
             currentNumber = currentNumber * -1;
 
